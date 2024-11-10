@@ -1,6 +1,6 @@
-<center>__🎈Hi, I’m @SL-Studio-S.T.🎈__</center>
+### 🎈Hi，I'm @SL-Studio-S.T.🎈
 
-<center>__🎈你好，我是@SL-Studio-S.T.🎈--</center>
+### 🎈你好，我是 @SL-Studio-S.T.🎈
 
 我是来自中国的一个开发者（小小程序员？）
 
