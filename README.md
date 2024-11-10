@@ -39,10 +39,10 @@ You can check out my website first. [**[S.T.官方网站]**](https://ygsd-sl-stu
 ~~*I'm sure you know something about me by now.*~~
 
 我的项目有：
->[机器人 Lunar(开发中)](https://github.com/SL-Studio-ST/Lunar.Bot)
+>[机器人 Lunar (开发中)](https://github.com/SL-Studio-ST/Lunar.Bot)
 > 
-> [基于 Windows 系统的美化处理(开发中)](https://github.com/SL-Studio-ST/Lunar_UI)
+> [基于 Windows 系统的美化处理 (开发中)](https://github.com/SL-Studio-ST/Lunar_UI)
 > 
 > [我自己的网站](https://github.com/SL-Studio-ST/SL-Web)
 > 
-> [银国时代智能体(开发中)](https://github.com/SL-Studio-ST/SL-Intelligence)
+> [银国时代智能体 (开发中)](https://github.com/SL-Studio-ST/SL-Intelligence)
