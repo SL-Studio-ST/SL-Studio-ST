@@ -14,9 +14,9 @@
 
 *It's okay. I'll tell you.*
 
->>可以先看看我的网站呢 [**[S.T.个人博客]**](https://ygsd-sl-studio.rth1.xyz/st.html)
-
-You can check out my website first. [**[S.T.个人博客]**](https://ygsd-sl-studio.rth1.xyz/st.html)
+>>`可以先看看我的网站呢` [**[S.T.个人博客]**](https://ygsd-sl-studio.rth1.xyz/st.html)
+> 
+>*You can check out my website first. [**[S.T.个人博客]**](https://ygsd-sl-studio.rth1.xyz/st.html)*
 
 ### 我的个人简介：
 
