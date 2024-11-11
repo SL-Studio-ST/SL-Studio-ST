@@ -2,9 +2,9 @@
 
 # 🎈你好，我是 @SL-Studio-S.T.🎈
 
-我是来自中国的一个开发者（小小程序员？）
+我是来自中国的一个~~开发者~~（~~小小程序员？~~）
 
-*I am a developer (little programmer?) from China.*
+*I am a ~~developer~~ (~~little programmer?~~) from China.*
 
 也许你不太了解我
 
